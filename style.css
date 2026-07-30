@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@300;400;700&display=swap');
+
+
+body {
+
+    margin: 0;
+    background: #000;
+    color: white;
+
+    font-family: Inter, Arial, sans-serif;
+
+}
+
+
+
+header {
+
+    text-align: center;
+    padding: 120px 20px 100px;
+
+}
+
+
+
+h1 {
+
+    font-family: "Archivo Black", sans-serif;
+
+    font-size: clamp(60px, 12vw, 150px);
+
+    line-height: 0.9;
+
+    letter-spacing: -5px;
+
+    margin: 0;
+
+    text-transform: uppercase;
+
+}
+
+
+
+header h2 {
+
+    font-size: 22px;
+
+    letter-spacing: 8px;
+
+    font-weight: 300;
+
+    margin-top: 50px;
+
+}
+
+
+
+header img {
+
+    margin-top: 80px;
+
+    width: 320px;
+
+    height: 320px;
+
+    object-fit: cover;
+
+}
+
+
+
+main {
+
+    max-width: 900px;
+
+    margin: auto;
+
+    padding: 40px 30px;
+
+}
+
+
+
+h3 {
+
+    font-family: "Archivo Black", sans-serif;
+
+    font-size: 40px;
+
+    letter-spacing: 2px;
+
+    margin-top: 120px;
+
+}
+
+
+
+article {
+
+    margin: 70px 0;
+
+}
+
+
+
+h4 {
+
+    font-size: 32px;
+
+    margin-bottom: 10px;
+
+    text-transform: uppercase;
+
+}
+
+
+
+p {
+
+    font-size: 18px;
+
+    line-height: 1.8;
+
+    max-width: 650px;
+
+}
