@@ -118,7 +118,69 @@ article {
 
 }
 
+.project {
 
+    padding-bottom: 25px;
+
+    margin-bottom: 25px;
+
+    border-bottom: 1px solid #333;
+
+}
+
+
+.project h4 {
+
+    font-family: "Archivo Black", sans-serif;
+
+    font-size: 32px;
+
+    margin: 0 0 8px 0;
+
+}
+
+
+.info {
+
+    font-size: 13px;
+
+    letter-spacing: 3px;
+
+    color: #00f5d4;
+
+    margin-bottom: 20px;
+
+}
+
+
+.details {
+
+    display: flex;
+
+    gap: 20px;
+
+    font-size: 15px;
+
+    margin-bottom: 5px;
+
+    color: #ccc;
+
+}
+
+
+.details span {
+
+    width: 90px;
+
+    font-size: 11px;
+
+    letter-spacing: 2px;
+
+    color: #ff006e;
+
+    font-weight: bold;
+
+}
 
 h4 {
 
